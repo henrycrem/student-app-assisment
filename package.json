@@ -9,6 +9,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "16.x"
+  },
+  
   "dependencies": {
     "@clerk/nextjs": "^4.23.5",
     "@emoji-mart/data": "^1.1.2",
